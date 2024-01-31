@@ -1,1 +1,1 @@
-# plantdetection
+# bird species detection
